@@ -6,6 +6,7 @@
 ## secneuqes        
   
   🎓 Incheon Science Highschool (2022-2023)
+  <br>
   🎓 KAIST (2024-)
 
   <br>
