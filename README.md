@@ -14,8 +14,7 @@
 
 
 <div align="center">
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingsparkdev)](https://solved.ac/kingsparkdev) 
+  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kingsparkdev"/>
 
   ### 🛠 SKILL 🛠
   <img src="https://img.shields.io/badge/#3776AB?style=flat-square&logo=Python&logoColor=white"/>
