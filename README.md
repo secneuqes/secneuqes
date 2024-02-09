@@ -15,6 +15,7 @@
 
 
 <div align="center">
+  <img src="http://mazandi.herokuapp.com/api?handle=kingsparkdev&theme=warm"/>
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kingsparkdev"/>
 
   ### 🛠 SKILL 🛠
@@ -25,8 +26,4 @@
   <img src="https://img.shields.io/badge/OpenSCAD-F9D72C?style=flat-square&logo=OpenSCAD&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
  
-</div>
-
-<div align="center">
-  <img src="http://mazandi.herokuapp.com/api?handle=kingsparkdev&theme=warm"/>
 </div>
